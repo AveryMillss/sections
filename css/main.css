@@ -1,0 +1,29 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  font-family: sans-serif;
+  line-height: 1.5rem;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #eee9de;
+  overflow: hidden;
+}
+
+
+.image {
+
+}
+
+.content h1{
+  font-weight: bold;
+}
+
+.link {
+  display: inline-block;
+  border: 3px solid #333;
+}
